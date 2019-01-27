@@ -3,43 +3,43 @@ baseurl:
 
 # Site settings
 title: Human Factors Psychology
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: snuhahnlab@gmail.com
+description: We study Human Factors Psychology
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Tiffany Blue
   pic: 1
-  position: Lead Designer
+  position: Principal Investigator
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: github
       url: #
 
-- name: Larry Parker
+- name: Harry Potter
   pic: 2
-  position: Lead Marketer
+  position: Ph.D. Course
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: github
       url: #
 
-- name: Diana Petersen
+- name: Herminoe Granger
   pic: 3
-  position: Lead Developer
+  position: M.A. Course
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: github
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
