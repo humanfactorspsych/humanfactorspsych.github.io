@@ -1,15 +1,24 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Shawn Mendes
+subtitle: Professor
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: 1.png
+thumbnail: 1.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Sowon Hahn <br>
+
+Professor, Department of Psychology, College of Social Sciences <br>
+Director, Research Center for Psychological Science <br>
+Director, Interdisciplinary Program in XX Program <br>
+<b>
+E-mail: abc@abc.ac.kr <br>
+Phone: 02-000-0000 <br>
+<br>
+CV(link) 
 
 ---
