@@ -11,11 +11,10 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Sowon Hahn <br>
-
 Professor, Department of Psychology, College of Social Sciences <br>
 Director, Research Center for Psychological Science <br>
 Director, Interdisciplinary Program in XX Program <br>
-<b>
+<br>
 E-mail: abc@abc.ac.kr <br>
 Phone: 02-000-0000 <br>
 <br>
