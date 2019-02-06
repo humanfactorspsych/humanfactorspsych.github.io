@@ -9,56 +9,57 @@ description: We study Human Factors Psychology
 
 # Team names, titles and social links
 people:
-- name: Tiffany Blue
+- name: Shawn Mendes
   pic: 1
-  position: Principal Investigator
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: github
-      url: #
+  position: Professor
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: github
+      #url: #
 
-- name: Harry Potter
+- name: Sarah Bonita
   pic: 2
-  position: Ph.D. Course
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: github
-      url: #
+  position: Ph.D. Student
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: github
+      #url: #
 
-- name: Herminoe Granger
+- name: Gong You
   pic: 3
-  position: M.A. Course
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: github
-      url: #
+  position: M.A. Student
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: github
+      #url: #
+    
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: google
+    url: hahnlab.snu.ac.kr
+  #- title: facebook
+    #url:
+  #- title: stack-overflow
+    #url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket 
+    #url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Building, Department of Psychology
+  - line: Seoul, South Korea
 
 # Build settings
 markdown: kramdown
