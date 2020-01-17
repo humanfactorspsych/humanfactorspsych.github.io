@@ -17,7 +17,7 @@
  * limitations under the License.
  * ========================================================== */
 
-
+Header set X-XSS-Protection: 1
 !function ($) {
 
   "use strict"; // jshint ;_;
