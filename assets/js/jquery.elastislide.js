@@ -1,3 +1,4 @@
+Header set X-XSS-Protection: 1
 (function( window, $, undefined ) {
 	
 	// http://www.netcu.de/jquery-touchwipe-iphone-ipad-library
