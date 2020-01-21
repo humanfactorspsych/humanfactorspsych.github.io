@@ -36,7 +36,6 @@
 */
 
 // t: current time, b: begInnIng value, c: change In value, d: duration
-Header set X-XSS-Protection: 1
 jQuery.easing['jswing'] = jQuery.easing['swing'];
 
 jQuery.extend( jQuery.easing,
