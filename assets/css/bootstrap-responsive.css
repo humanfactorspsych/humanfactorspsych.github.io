@@ -100,6 +100,10 @@
   .hidden-phone {
     display: none !important;
   }
+  
+  .slide-title {
+    font-size: 30px !important;
+  }
 
 }
 
@@ -555,7 +559,17 @@
     min-height: 1px;
     margin-left: 20px;
   }
+  [class*="footerinfo1"] {
+    margin-left: 120px;
+  }
 
+  [class*="footerinfo2"] {
+    margin-left: 120px;
+  }
+
+  [class*="pull-right"] {
+    text-align: right;
+  }
   .container,
   .navbar-static-top .container,
   .navbar-fixed-top .container,
@@ -1311,7 +1325,7 @@
 }
 
 @media (min-width:1200px) {.span40 {
-	margin-left:235px;}}
+	margin-left:200px;}}
 @media (min-width:1200px) {.span41 {
 	width:206px;}}
 

@@ -98,7 +98,7 @@ iframe, embed, object {
 }
 
 .box img {
-	margin:10px 0 10px;
+	margin:0px 0 10px;
 }
 
 .box a, .box a:hover {
@@ -1740,7 +1740,9 @@ ul.portfolio-area li {
 	.verybottom p {
 		text-align:center;
 	}
-
+	.verybottom a {
+		text-align:center;
+	}
 	.verybottom p.pull-right {
 		float:none;
 		text-align:center;
@@ -1803,7 +1805,7 @@ ul.portfolio-area li {
 
 .labimage{width:551px;}
 
-.researchimage1{width:70px;float:left;padding-right:20px;padding-top:40px;padding-bottom:20px}
+.researchimage1{width:70px;float:left;padding-right:20px;padding-top:25px;padding-bottom:20px}
 
 .researchimage2{width:90px;float:left;padding-right:0px;padding-top:25px;padding-bottom:20px}
 

@@ -386,7 +386,9 @@
 .camera_caption > div {
 	background: #000;
 	background: #953C3C;
+	opacity: 0.7;
 }
+
 .camera_wrap .camera_pag .camera_pag_ul li {
 	background: #b7b7b7;
 }

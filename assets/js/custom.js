@@ -41,10 +41,11 @@ jQuery(document).ready(function($) {
   $("<select />").appendTo("nav");
 
   // Create default option "Go to..."
+  // 'Go to...' => 'Menu >>>'    //2020.01.22
   $("<option />", {
     "selected": "selected",
     "value": "",
-    "text": "Go to..."
+    "text": "Menu >>>"
   }).appendTo("nav select");
 
   // Populate dropdown with menu items
