@@ -130,6 +130,12 @@
     margin-left: 30px;
   }
 
+  [class*="span8888"] {
+    float: left;
+    min-height: 1px;
+    margin-left: 0px;
+  }
+
   [class*="span18"] {
     float: left;
     min-height: 1px;
@@ -558,6 +564,12 @@
     float: left;
     min-height: 1px;
     margin-left: 20px;
+  }
+
+  [class*="span8888"] {
+    float: left;
+    min-height: 1px;
+    margin-left: 0px;
   }
   [class*="footerinfo1"] {
     margin-left: 120px;

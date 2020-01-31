@@ -290,6 +290,12 @@ a:hover {
   margin-left: 0px;
 }
 
+[class*="span8888"] {
+  float:left;
+  min-height: 1px;
+  margin-left: 0px;
+}
+
 .container,
 .navbar-static-top .container,
 .navbar-fixed-top .container,
@@ -347,7 +353,10 @@ a:hover {
 .span13 {
   width: 200px;
 }
-
+.span8888 {
+  width: 620px;
+  margin-left: 0px;
+}
 .offset12 {
   margin-left: 980px;
 }
@@ -6041,4 +6050,8 @@ h5555 {
   color: inherit;
   text-rendering: optimizelegibility;
   font-size: 15px;
+}
+
+.hello {
+  width: 620px
 }
