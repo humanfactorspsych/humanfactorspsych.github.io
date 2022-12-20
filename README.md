@@ -1,2 +1,3 @@
-# Hahnlab.github.io
+# humanfactorspsych.github.io
+
 homepage
