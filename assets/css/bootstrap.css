@@ -305,6 +305,13 @@ a:hover {
 
 .span12 {
   width: 940px;
+  flex-direction: column;
+}
+
+@media (min-width: 768px){
+  .span12{
+    flex-direction: row;
+  }
 }
 
 .span11 {
