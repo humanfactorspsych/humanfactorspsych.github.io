@@ -1898,6 +1898,10 @@ img.alignright {
 	margin: 0 10px 0 10px;
 }
 
+.professor_image {
+	width: 85%;
+}
+
 /* custom queries */
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
@@ -1911,12 +1915,11 @@ img.alignright {
 @media (max-width: 767px) {
 
 	.professor_image {
-		max-width: 250px;
+		width: 200px;
 	}
 
 	.researcher_image {
-		margin-bottom: 15px;
-		max-width: 250px;
+		width: 200px;
 	}
 
 	.navbar .navbar-inner .container {
@@ -2082,9 +2085,7 @@ img.alignright {
 	text-align: center;
 }
 
-.professor_image {
-	width: 85%;
-}
+
 
 .nav nav-tabs {
 	margin-bottom: 0px;
